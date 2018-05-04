@@ -57,7 +57,7 @@ Preprocess:
 
 Train:
 ----
-	`python train.py`
+	**python train.py**
 	Run by excuting the command of train.py. The default parameters are used.
 	
 	python train.py --help
