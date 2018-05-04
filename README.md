@@ -103,7 +103,7 @@ Train:
 
 Eval:
 ----
-	python eval.py test.txt
+	`python eval.py test.txt`
 
 	The model which has been trained well will be preserved under the directory of model/.
 	From here on, one may let the model perform on the test data set. Run by excuting the command of eval.py. The output results will be written into the file of test.txt.
